@@ -1,0 +1,1 @@
+Everything is possible nowadays with technology, even virtual reality. Virtual reality is a computer stimulated 3D environment that allows users to explore and interact with a virtual surrounding in a way that approximates reality, as it is percieved through users' senses by utilizing a device known as Virtual Reality headset or helmet.
