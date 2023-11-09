@@ -1,2 +1,2 @@
 # Quantum Computers 
-Classical computers manipulate ones and zeroes to crunch through operations, but quantum computers use quantum bits or qubits. 
+Classical computers manipulate ones and zeroes to crunch through operations, but quantum computers use quantum bits or qubits. Just like classical computers, quantum computers use ones and zeros, but qubits have a third state called “superposition” that allows them to represent a one or a zero at the same time.
