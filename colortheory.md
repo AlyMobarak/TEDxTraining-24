@@ -1,0 +1,3 @@
+An overview about the color theory:
+
+The study of colour relationships and how they influence our feelings and perceptions is known as colour theory. It functions similarly to a toolbox for producers, designers, and artists to assist them in selecting the appropriate colours for their works. Using colour theory, you can choose hues for your work that will work well together and send the appropriate message or mood.
