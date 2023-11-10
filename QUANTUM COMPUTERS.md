@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Quantum Computers (edit 2)
+
+# Quantum Computers
 The different abilities the Quantum Computers proviede have an impact on the economy and society. It revolutionizes miscellanious fields such as finance, logistics, and health care by enabeling new levels of efficiency and accuracy. In fact, it can also act as a powerful catalyst for digital economy. Besides, it provides significant advantages in areas such as Cryptography which is crucial for secure digital transactions and communications in numerous industries. In addition, Quantum Computers play a substantial role in the development of ethics, cyber mechanisms(attack or defense), governance, and citizenship. All these impacts demonstrate how Quantum computers are important.
-=======
+
 # Quantum Computers 
 Classical computers manipulate ones and zeroes to crunch through operations, but quantum computers use quantum bits or qubits. Just like classical computers, quantum computers use ones and zeros, but qubits have a third state called “superposition” that allows them to represent a one or a zero at the same time.Instead of analysing a one or a zero sequentially, superposition allows two qubits in superposition to represent four scenarios at the same time. Therefore, the time it takes to crunch a data set is significantly reduced.
->>>>>>> e66c0712ebf147631c202399d04410b554db689a
